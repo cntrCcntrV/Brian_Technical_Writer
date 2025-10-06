@@ -1,0 +1,10 @@
+title: "Brian Kirui | Technical Writing Portfolio"
+description: "Technical writer specializing in AI, MLOps, and developer documentation."
+theme: jekyll-theme-minimal
+logo: /assets/images/headshot.jpg
+show_downloads: false
+github:
+  is_project_page: false
+  owner_url: "https://github.com/briankirui"
+google_analytics: "G-XXXXXXXXXX"  # optional
+
