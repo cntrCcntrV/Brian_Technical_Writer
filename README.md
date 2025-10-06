@@ -1,37 +1,21 @@
-[README.md](https://github.com/user-attachments/files/22723532/README.md)
+👋 Hi, I'm Brian Kirui
+Technical Writer | MLOps Specialist | AI Documentation Engineer
 
-# Understanding Fundamental Algorithms: A Beginner's Guide
+I create clear, developer-focused documentation for AI, data, and cloud systems.
+My work blends hands-on machine learning knowledge with professional communication and documentation design.
 
-## About This Article
-
-This comprehensive guide aims to give beginners an in-depth understanding of fundamental algorithms.
-
-  
-
-Algorithms are the cornerstone of computer science, and understanding them is essential for problem-solving and efficient program design.
-
-  
-
-In this article, we explore key algorithms and their applications in real-world scenarios.
-
-## Features
-
--   **Introduction**: Brief overview of algorithms and why they're essential.
--   **Prerequisites**: What you need to know before diving into the topic.
--   **Terminology**: Definitions of technical terms used throughout the article.
--   **Main Content**: Detailed sections exploring these fundamental algorithms.
-
--   Sorting Algorithms
--   Searching Algorithms
-
--   **Case Studies**: Real-world examples of how these algorithms are used.
--   **Best Practices**: Tips and tricks for efficient algorithmic coding.
--   **Common Pitfalls**: What to avoid when working with algorithms.
--   **Conclusion**: Summary of key takeaways.
--   **Further Reading**: Resources for those who want to delve deeper into the subject.
-
-## Why This Article?
-
--   **Educational**: Ideal for students, educators, or anyone new to the field.
--   **Practical**: Includes real-world examples and best practices.
--   **Accessible**: Written in easy-to-understand language.
+🧠 Expertise
+Technical Writing: API docs, SDK guides, user manuals, architecture whitepapers
+MLOps & AI Systems: Azure AI Foundry, MLflow, CI/CD pipelines
+Developer Tools: Python, Docker, REST/GraphQL APIs, Git, VS Code
+Documentation Tools: Markdown, Sphinx, Docusaurus, MkDocs, Swagger/OpenAPI
+📚 Featured Projects
+Project	Description	Link
+Deploying LLMs to Azure AI Foundry	Step-by-step guide to register, deploy, and monitor LLMs on Azure	Read →
+MLOps Model Monitoring	Explains drift detection, retraining, and automation with Azure ML	Read →
+API Documentation Example	REST API docs using OpenAPI spec and Markdown formatting	Read →
+User Guide Template	General-purpose software documentation layout	Read →
+🧩 About This Portfolio
+Built using GitHub Pages (Jekyll Minimal theme)
+📂 Repository: github.com/briankirui/technical-writing-portfolio
+📧 Contact: your-email@example.com
